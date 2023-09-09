@@ -1,2 +1,2 @@
 # utils
-Small functionalities that may be used across projects
+This should only have small functionalities that may be used across projects.
